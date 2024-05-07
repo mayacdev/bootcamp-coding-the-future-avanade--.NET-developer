@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models;
+namespace SistemadeHospedagem.Models;
 
 public class Pessoa
 {
