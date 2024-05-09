@@ -11,7 +11,7 @@ Você é responsável pelo banco de dados de um site de filmes, onde são armaze
 Você precisará realizar 12 consultas ao banco de dados, cada uma retornando um tipo de informação.
 O seu banco de dados está modelado da seguinte maneira:
 
-![Diagrama banco de dados]([Imagens/diagrama.png](https://github.com/Gabriel-Ferreira-DEV/trilha-net-banco-de-dados-desafio/raw/master/Imagens/diagrama.png))
+![Diagrama banco de dados](https://raw.githubusercontent.com/Gabriel-Ferreira-DEV/trilha-net-banco-de-dados-desafio/master/Imagens/diagrama.png)
 
 As tabelas sao descritas conforme a seguir:
 
